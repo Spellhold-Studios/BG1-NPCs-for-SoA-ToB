@@ -2,6 +2,7 @@ IF
 Global("StartEndBios","AR6200",1)
 InParty("7XSHAR")
 Global("7XSHARBio","GLOBAL",0)
+!Global("SharteelRomanceActive","GLOBAL",2)
 THEN
 RESPONSE #100
 SetGlobal("7XSHARBio","GLOBAL",1)
@@ -16,7 +17,6 @@ Global("PlayerChoseEssence","GLOBAL",0)
 InParty("7XSHAR")
 Global("7XSHARBio","GLOBAL",0)
 Global("SharteelRomanceActive","GLOBAL",2)
-GlobalGT("SharteelRomRep","GLOBAL",11)
 !GlobalGT("SharteelRomRep","GLOBAL",14)
 THEN
 RESPONSE #100
