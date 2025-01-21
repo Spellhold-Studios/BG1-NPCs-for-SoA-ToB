@@ -240,11 +240,11 @@
 @167 = ~All sentient beings push themselves into boundaries over time, Shar-Teel. It's called adulthood. But as a former idealistic youth, I can understand your frustration.~
 @168 = ~What the hell is that - sarcasm? Who do you think you are, you are bastard, talking to me like that!?~
 @169 = ~OK, let's get serious. What do you even know about the life of kings? Do you think being king will make me happier? Or will I get a second stomach so I can eat more? Or will I have more friends? Nothing will change, it will only get worse; I will have to work from morning till night, and everyone will want to kill me to take my place. I'm going to lose my freedom, because any slave is much freer than a king. And why should I do all this?~
-@170 = ~Why? What's the point? We all die the same way - kings and beggars.~
+@170 = ~Why? What's the point? Kings and beggars, we all die the same way.~
 @171 = ~Maybe you're right. But I have only one goal now - to finish off Irenicus.~
 @172 = ~I understand what you say about freedom. But what about ambition?~
 @173 = ~Is your whole life devoted to chasing a sorcerer? And you have no other ambitions?~
-@174 = ~I'm sorry to disappoint you, my fierce amazon. A-M-B-I-T-I-O-N is such a word in the common, there's nothing behind it. Emptiness. Right now, I am happy and living in harmony with myself. I have you, trustworthy companions, a roof over my head and some kind of future. That is quite enough for me.~
+@174 = ~I'm sorry to disappoint you, fierce Amazon. Ambition... is such a common word. It doesn't mean much to me. Right now, I am happy and living in harmony with myself. I have you, my trusted companions, a roof and some kind of future. That is more than enough for me.~
 @175 = ~Getting your favour is the only worthwhile goal I've ever had in my life.~
 @176 = ~You will end up living in this hole.~
 @177 = ~*You come up behind Shar-Teel's back and kiss her neck* I think you're going to, hmm... end up here with me. No one will disturb us. I'm in the mood for a long debate tonight.~
@@ -675,7 +675,7 @@
 @585 = ~Since when did you start guarding caravans?~
 @586 = ~Why do you need it?~
 @587 = ~It's no big deal – I'll just sit in the hold of the ship the whole damn way. I'm a Heraldess of the Night, so I guard the property of the Church of the Night. That's the only way you can make a career in the Church; every first one there serves as an errand boy for important Church bosses. ~
-@588 = ~I need your permission to go on a mission. Almost a verse, innit? ~
+@588 = ~I must seek your permission to embark on my mission. Nearly akin to a verse, innit?~
 @589 = ~I don't need your permission to go on a mission, but I'm going to ask anyway.~
 @590 = ~I don't like this very much. How long are you sailing for?~
 @591 = ~What if I don't want you to leave? We have enough gold, after all.~
@@ -712,7 +712,7 @@
 @622 = ~As you wish.~
 @623 = ~*Smiles smugly* That's it.~
 @624 = ~You smell of field herbs... and healing potions like some herbalist's shop. What's your favourite flower?~
-@625 = ~I like the red poppy. It's strong and hardy flower. There's an old belief that poppies always grow in abundance on battlefields... I have seen a field like that once. *Shar-Teel pauses thoughtfully.*~
+@625 = ~The red poppy is a favourite of mine. It's strong and hardy flower. There's an old belief that poppies always grow in abundance on battlefields... I have seen a field like that once. *Shar-Teel pauses thoughtfully.*~
 @626 = ~Yeah, by the way, what about Liora, remember, that priestess who threatened us?~
 @627 = ~I reported her, and she was called away from Athkatla, somewhere to the North. Right now, I think, she is lighting a fire in the hearth of her steamy, gloomy hut. She'd been a thorn in the Church's eye for a long time. ~
 @628 = ~Are you telling me the truth?~
@@ -759,7 +759,7 @@
 @669 = ~Great. You were looking forward to the "cloak" more than the "helmet", weren't you? ~
 @670 = ~*She smiles broadly at you* Oh, yeah!!~
 @671 = ~*You knock your bearess off her feet with a powerful push (you're always ready to back up her fall, though)* This is your place in life now. On the ground at my feet. ~
-@672 = ~Show me who's boss! Hurry up, step on me, and take a kingly pose. My lord! ~
+@672 = ~Show me who's boss! Hurry up, step on me, and take a kingly pose. Pray tell, milord, show me my proper place beneath your heel.~
 @673 = ~Are you okay..., I mean, do you want more, you insatiable pig!?~
 @674 = ~Yes, that's not nearly enough, Master. Please take me from behind!~
 @675 = ~*Without any further words, you wind Shar-Teel's hair around your fist and take her, mercilessly and roughly, spurred on by her loud moans. When your strength finally runs out, the indefatigable amazon climbs on top of you herself. The hours fly by, and you fall asleep in each other's arms in the morning.*~
@@ -806,7 +806,7 @@
 
 // adds
 @714 = ~Shar-Teel, these games make me feel stupid. Let's just make love.~
-@715 = ~You're so boring! Okay, go to bed. *The zmazon pulls you powerfully towards her, and you become intertwined in carnal pleasures. Hours fly by, and you fall asleep only in the morning.*~
+@715 = ~You're so boring! Okay, go to bed. *The amazon pulls you powerfully towards her, and you become intertwined in carnal pleasures. Hours fly by, and you fall asleep only in the morning.*~
 @716 = ~*The coin falls with the image of a cloak facing up*~
 @717 = ~You will do everything I want, right?~
 @718 = ~Have you finished your story? It's time for us to move on, there's little time.~
@@ -984,7 +984,7 @@
 @932  = ~Not bad at all. But we've got a lot of work to do.~
 @933  = ~Risk is the domain of the foolish. That's what I thought until I met you. You have a real talent for dealing with risky situations, even better than I do.~
 @934  = ~Don't you dare boss me around. I'm not like that damn Bull... I give the orders here.~
-@935  = ~Now you're beginning to talk like a man. But be careful, ’cause I don’t joke with you, willful boy. The time will come when you won't lift a finger unless I tell you to. But let's leave this conversation *she grins carnivorously at you* for future, happier times. In the meantime, I have realised why I enjoy telling you these stories so much.~
+@935  = ~Now you're beginning to talk like a man. But do remember, you are merely a pawn in my game. Soon enough, you shall learn to move only at my command. *She grins carnivorously at you* In the meantime, I have realised why I enjoy telling you these stories so much.~
 @936  = ~What do you think the future holds for us, Shar-Teel?~
 @937  = ~*She shrugs* How would I know? It's not like I'm a goddamn seer. But I'm telling you, boy, war clouds are gathering over Amn. I smell an battles afar, a blood and conflagration. Be wary.~
 @938  = ~Can't promise? You know, I like fighting myself, but you're becoming uncontrollable. This won't do.~
