@@ -1,7 +1,7 @@
 BACKUP ~BG1NPCSoA/backup~
 SUPPORT ~http://www.shsforums.net/forum/686-bg1-npcs-for-soa-~
 
-VERSION ~15.4~
+VERSION ~15.4.1~
 
 AUTO_TRA ~BG1NPCSoA/tra/%s~
 
@@ -8619,10 +8619,12 @@ EXTEND_TOP ~7Xkaga.bcs~ ~fix_tob_script.baf~ EVALUATE_BUFFER
 END
 
 /////////////////////////////////
+// FALDORN
 
 BEGIN @1437 DESIGNATED 40
 GROUP ~Main Mod~
 REQUIRE_PREDICATE GAME_IS ~bg2 tob bgt bg2ee eet~ ~Not support game~
+REQUIRE_PREDICATE (NOT FILE_EXISTS_IN_GAME ~L#FALJ.dlg~) ~Lava's Faldorn mod is installed. No content to install~ // Lava's Faldorn is not installed
 
 COPY_EXISTING ~sw1h01.itm~ ~override/7xbg1n.mrk~ // This file helps to determine if at least one component is installed - to disable the installation of the audio component and cross-banters if none of the main components is installed.
 
@@ -8662,7 +8664,7 @@ INCLUDE ~%MOD_FOLDER%/lib/standardEE.tph~
 				READ_2DA_ENTRY cntg  0 2 "Crename"
 				READ_2DA_ENTRY cntg  1 2 "Filename"
 				INNER_ACTION BEGIN
-					ACTION_IF FILE_EXISTS_IN_GAME ~%Crename%.cre~ THEN BEGIN
+				ACTION_IF FILE_EXISTS_IN_GAME ~%Crename%.cre~ THEN BEGIN
 						OUTER_SET s9total+=1
 						LAUNCH_ACTION_MACRO ~Addpic~ 
 					END
@@ -8907,13 +8909,14 @@ END
 BEGIN @1485 DESIGNATED 45
 GROUP ~Main Mod~
 REQUIRE_PREDICATE GAME_IS ~bg2 tob bgt bg2ee eet~ ~Not support game~
+REQUIRE_PREDICATE (NOT FILE_EXISTS_IN_GAME ~L#MONJ.dlg~) ~"The Return of Xzar and Montaron" mod is installed. No content to install~ // Lava's Faldorn is not installed
 
 COPY_EXISTING ~sw1h01.itm~ ~override/7xbg1n.mrk~ // This file helps to determine if at least one component is installed - to disable the installation of the audio component and cross-banters if none of the main components is installed.
 
 APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~
 UNLESS ~CD_STATE_NOTVALID~
 
-//MONTARON
+/////////////MONTARON
 
 ACTION_IF FILE_EXISTS_IN_GAME ~MONTYRA2.bcs~ // Check "The Darkest Day" mod installed
 THEN BEGIN
@@ -9510,7 +9513,7 @@ END
 BEGIN @1572 DESIGNATED 50
 GROUP ~Main Mod~
 REQUIRE_PREDICATE GAME_IS ~bg2 tob bgt bg2ee eet~ ~Not support game~
-REQUIRE_PREDICATE (NOT FILE_EXISTS_IN_GAME ~1xQUAYB.dlg~) OR
+REQUIRE_PREDICATE (NOT FILE_EXISTS_IN_GAME ~1xQUAYB.dlg~) AND
                   (NOT FILE_EXISTS_IN_GAME ~O#Tiax.cre~) ~No content to install~
 
 COPY_EXISTING ~sw1h01.itm~ ~override/7xbg1n.mrk~ // This file helps to determine if at least one component is installed - to disable the installation of the audio component and cross-banters if none of the main components is installed.
