@@ -442,6 +442,7 @@ END
 
 IF ~~ THEN BEGIN 7xSharRomanceBanter5-3
 SAY @142
+=@948
 IF ~~ THEN DO ~ForceSpellRES("STCHR", "7XSHAR")~ REPLY @143 GOTO 7xSharRomanceBanter5-3-1 /*ReallyForceSpell("7XSHAR","STCHR")*/
 IF ~~ THEN DO ~ForceSpellRES("STCHR", "7XSHAR")~ REPLY @144 GOTO 7xSharRomanceBanter5-3-2
 IF ~~ THEN DO ~ForceSpellRES("STCHR", "7XSHAR")~ REPLY @145 GOTO 7xSharRomanceBanter5-3-2
@@ -2296,14 +2297,14 @@ IF WEIGHT #-99 ~Global("SharTeelCheckMad2","GLOBAL",1)
 See(Player1)
 !StateCheck(Player1,STATE_SLEEPING)
 OR(2)
-Global("SharTeelRomanceActive","GLOBAL",1)
-Global("SharTeelRomanceActive","GLOBAL",2)
+Global("SharteelRomanceActive","GLOBAL",1)
+Global("SharteelRomanceActive","GLOBAL",2)
 Global("PhaereInnuendo","GLOBAL",2)
 !Range("Phaere",6)
 Global("SharTeelMad2","LOCALS",0)~ THEN 
 BEGIN UDPHAE01SharTeelRom2
   SAY @832
-  IF ~~ THEN DO ~SetGlobal("SharTeelMad2","LOCALS",1) SetGlobal("SharTeelRomanceActive","GLOBAL",3)~ EXIT
+  IF ~~ THEN DO ~SetGlobal("SharTeelMad2","LOCALS",1) SetGlobal("SharteelRomanceActive","GLOBAL",3)~ EXIT
 END
 
 
@@ -2311,8 +2312,8 @@ IF WEIGHT #-99 ~Global("SharTeelCheckMad2","GLOBAL",1)
 See(Player1)
 !StateCheck(Player1,STATE_SLEEPING)
 OR(2)
-Global("SharTeelRomanceActive","GLOBAL",1)
-Global("SharTeelRomanceActive","GLOBAL",2)
+Global("SharteelRomanceActive","GLOBAL",1)
+Global("SharteelRomanceActive","GLOBAL",2)
 Global("PhaereInnuendo","GLOBAL",3)
 !Range("Phaere",6)
 Global("SharTeelMad3","LOCALS",0)~ THEN 
