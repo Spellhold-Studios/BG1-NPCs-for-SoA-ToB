@@ -2,9 +2,9 @@
 @0 = ~*You are looking at Shar-Teel*~
 @1 = ~Why are you staring at me like that, male?~
 @2 = ~Don't you remember what happened between us?~
-@3 = ~Forget it - I sleeped with a lot of people...~
+@3 = ~Forget it - I've slept with a lot of men... but you... you weren't the worst of them. Quite the opposite, in fact.~
 @4 = ~Nothing. Just remembering the good old days with you.~
-@5 = ~I'm surprised that you managed to live to see me again.~
+@5 = ~I'm surprised that you managed to survive to see me again.~
 @6 = ~Nothing. Keep formation.~
 @7 = ~*Amazon smirks back at you dismissively*~
 
@@ -25,14 +25,14 @@
 @848 = ~You barely hurt, you wimp. Come back to line.~
 @849 = ~Then get lost if you're not helping! *she clumsily applies a bandage to the wound* Ugh...! devil!~
 @850 = ~Have you ever had to help someone? Heal others, I mean. At least without seriously injuring your comrades.~
-@851 = ~Looky looky here - the clever dick himself! Well, well don't stare at me like that. I only did that once. And because I am in a good mood today, I can even tell you why I did it. Back in the Pits, I was sleeping with a fighter called the Bull. You know, the kind of fighter with a lot of muscle and not much brains. He was a stupid and cruel animal.~
+@851 = ~Looky here we have ourselves a caring dick! Come on, don't look at me like that. I only did that once. And because I am in a good mood today, I can even tell you why I did it. Back in the Pits, I was sleeping with a fighter called the Bull. You know, the kind of fighter with a lot of muscle and not much brains. He was a stupid and cruel animal.~
 @852 = ~Wait, let me guess, you're going to talk about how strong you are, and how you'll triumphantly end up beating that poor weak male in the end, right?~
-@853 = ~Who does it remind me of? A companion of some sort who is as cruel as she is heartless…~
+@853 = ~Who does it remind me of? A companion of some sort who is as cruel as she is heartless ~
 @854 = ~Damn you! I'll tell you nothing in that case.~
 @855 = ~I'm sorry. I know you have an intelligence of 14. Please continue.~
-@856 = ~That's right, male. *She rumbles smugly* One day you're going to pray, and pray hard, for my strength and my intelligence. As for the Bull, unlike you, he always charged without thinking. By the way, why can't I remember a single fight where you didn't have one eye squinting for cover?~
+@856 = ~That's right, male. *She rumbles smugly* One day you will pray, and pray hard, for my strength and my intelligence which will save your ass. As for the Bull, unlike you, he always charged without thinking. By the way, why can't I remember a single fight where you didn't have one eye squinting for cover?~
 @857 = ~I might not be willing to take risks for myself - like a bare-knuckle fight with an angry minotaur. Or waking you up on time and putting you on guard. But that time may come.~
-@858 = ~*Your amazon playfully punches you in the liver* I knew that you're a coward. Be thankful for your Gods, weakling, that you have me.~
+@858 = ~*Your amazon playfully punches you right in the liver* I knew that you're a coward. Be thankful for your Gods, weakling, that you have me.~
 @859 = ~I just wanted to take a moment to express my sincere gratitude for having you in my squad. Your contributions are truly appreciated.~
 @860 = ~*She shuts up for a second, and blushes (but maybe you just imagined it)* Ahem...! I've never had my arse kissed like this in my entire life. Whatever... could you remind me what we were talking about?~
 @861 = ~Your skills are amazing. But I did want to bring to your attention to the fact that working with Your Brilliance Ladyship, we have experienced a rapid depletion of our potion supply. ~
@@ -69,12 +69,12 @@
 @892 = ~*Keep silent*~
 
 // Shar-Teel - Jaheira (alternate banter for romance)
-@8 = ~Men, men, men, and always men. I'm sick of it. Can you talk about someone else? ~
-@9 = ~Stay out of my business! What's your name...? Jahirah!~
+@8 = ~Men, men, men, and always men. I'm sick of it! Can you talk about someone else? ~
+@9 = ~Stay out of my business! What's your name...? Jahirah, right?~
 @10 = ~That's what I'm talking about. My name is Jaheira, J-A-H-E-I-R-A, you hear? You talk to women without the slightest interest, if you even remember that they exist.~
-@11 = ~And I thought: what if I'm wrong about the numbers?~
+@11 = ~And I thought: what if I'm wrong about the number?~
 @12 = ~You're wrong about what?~
-@13 = ~What if I'm wrong about the numbers. What if your mind isn't consumed by the entire male species... *druid chuckles and looks at you* ...but one, I would even say: the Chosen One MAN?~
+@13 = ~What if I'm wrong about the number. What if your mind isn't consumed by the entire male species... *druid chuckles and looks at you* ...but one, I would even say: the Chosen One MAN?~
 @14 = ~Keep your thoughts to yourself, pointy ears! I don't like men.~
 
 // PC - Shar-Teel (romance talk 1)
@@ -133,7 +133,7 @@
 @65 = ~I didn't mean to at all. Who the hell do you think you are?~
 
 // PC - Shar-Teel (romance talk 3)
-@66 = ~How did dummit men get so much power over women? And how could they invent so many things?~ [SHRAR]
+@66 = ~How the hell did men get so much power over women? And how could they invent so many things?~ [SHRAR]
 @67 = ~Maybe they were trying to think about the big world on the other side of the threshold.~
 @68 = ~I don't know. After training or a hard fight, my brain stops working, all the blood goes to my muscles. Maybe it's fate that I met a man with a head.~
 @69 = ~Don't forget the muscles, egghead.~
@@ -145,7 +145,7 @@
 @75 = ~Pfft. I didn't want to discuss anything with you.~
 @76 = ~What are you doing?! It hurts!~
 @77 = ~Are you completely nuts! Don't you dare come near me with your idiotic chatter again!~
-@78 = ~*Shar-Teel carnivorous grins at you and steps aside* That's it, I've taken my hands off you, Mr Sensitive.~
+@78 = ~*Shar-Teel carnivorous grins at you and steps aside* That's it, I've taken my hands off you, Mr. Sensitive.~
 @79 = ~*Shar-Teel frowns and silently steps aside. It seems she doesn't intend to talk to you anymore.*~
 
 // PC - Shar-Teel (romance talk 4 when a group spends the night outdoors)
@@ -190,12 +190,12 @@
 // PC - Shar-Teel (romance talk 5 when a group spends the night)
 @115 = ~You like to read books so much. And also talk about all sorts of scholarly nonsense.~ [SHRAR]
 @116 = ~You never had an appreciation for that quality in men, did you?~
-@117 = ~And with good reason, blody smartó male! What's a thousand words worth when all that matters is how you handle your sword? But don't be upset, you worm - you're good for warming my bed.~
+@117 = ~And with good reason, blody smart male! What's a thousand words worth when all that matters is how you handle your sword? But don't be upset, you worm - you're good for warming my bed.~
 @118 = ~And your books are wonderful sleeping pills.~
 @119 = ~*smirk* Live by the sword. Die in misery.~
 @120 = ~You're just a cowardly male who doesn't dare to make a move without a strong female hand. Admit it.~
 @121 = ~Oh, I gladly admit it. If that strong arm belongs to you, my Bearess. *Continuing speaking, you remove the armor from Shar-Teel with quick, fluid movements.*~
-@122 = ~*Suddenly, she squeezes you with her muscular legs until you can't breathe, then let’s go with a mischievous chuckle. Her sword is carelessly tossed aside, her armor removed - she's at your mercy.*~
+@122 = ~*Suddenly, she squeezes you with her muscular legs until you can't breathe, then let s go with a mischievous chuckle. Her sword is carelessly tossed aside, her armor removed - she's at your mercy.*~
 @123 = ~Mm-m. Come to me. *The amazon surrenders to you, and you instantly forget all conversation in the world...*~
 @124 = ~Whatever. Forget it.~
 @125 = ~As you wish.~
@@ -238,20 +238,20 @@
 @165 = ~*You hug Shar-Teel* I think I know someone who would lead my army.~
 @166 = ~Let go me! I am serious.~
 @167 = ~All sentient beings push themselves into boundaries over time, Shar-Teel. It's called adulthood. But as a former idealistic youth, I can understand your frustration.~
-@168 = ~What the hell is that - sarcasm? Who do you think you are, you are bastard, talking to me like that!?~
+@168 = ~What the hell is that - sarcasm? Who do you think you are, you bastard, talking to me like that!?~
 @169 = ~OK, let's get serious. What do you even know about the life of kings? Do you think being king will make me happier? Or will I get a second stomach so I can eat more? Or will I have more friends? Nothing will change, it will only get worse; I will have to work from morning till night, and everyone will want to kill me to take my place. I'm going to lose my freedom, because any slave is much freer than a king. And why should I do all this?~
 @170 = ~Why? What's the point? Kings and beggars, we all die the same way.~
 @171 = ~Maybe you're right. But I have only one goal now - to finish off Irenicus.~
 @172 = ~I understand what you say about freedom. But what about ambition?~
 @173 = ~Is your whole life devoted to chasing a sorcerer? And you have no other ambitions?~
-@174 = ~I'm sorry to disappoint you, fierce Amazon. Ambition... is such a common word. It doesn't mean much to me. Right now, I am happy and living in harmony with myself. I have you, my trusted companions, a roof and some kind of future. That is more than enough for me.~
+@174 = ~I'm sorry to disappoint you, fierce Amazon. Ambition... is such a Common Tongue word. It doesn't mean much to me. Right now, I am happy and living in harmony with myself. I have you, my trusted companions, a roof and some kind of future. That is more than enough for me.~
 @175 = ~Getting your favour is the only worthwhile goal I've ever had in my life.~
 @176 = ~You will end up living in this hole.~
 @177 = ~*You come up behind Shar-Teel's back and kiss her neck* I think you're going to, hmm... end up here with me. No one will disturb us. I'm in the mood for a long debate tonight.~
 @178 = ~You are stupid, lazy, worthless... *Shar-Teel's breathing is interrupted as you release her from her armour and reach for her firm breasts* ...male! Oh!! Yes!~
 @179 = ~Do you remember Sarevok? That demigod who dreamt of unlimited power.~
-@180 = ~That's who you remember. Are you afraid of ending up like him?~
-@181 = ~Yeah, I guess so. Sarevok died alone, betraying his own followers, on a blood-soaked floor in an abandoned temple deep underground.~
+@180 = ~Aye. Sarevok… That's the one who you remember well. Are you afraid of ending up like him?~
+@181 = ~Yeah, I guess so. Sarevok died alone, having betrayed and been betrayed by his claim devotees, on a blood-soaked floor in an abandoned temple deep underground.~
 @182 = ~Well, I remember that battle too. It was a glorious massacre. There was a moment when I thought: he's really going to kill us all there, ho-ho-ho!~
 @183 = ~It's not about death, it's about how you live your life. I want to create, not destroy. Violence and chaos always lead to death. Sarevok was just one of many who proved this to be true. That's what I thought as I looked at his body at my feet.~
 @184 = ~I will not repeat his mistakes. I am stronger, smarter and wiser than him.~
@@ -276,7 +276,7 @@
 @202 = ~How about some wine, milady?~
 @203 = ~I'm not a lady, as you well know. But why not.~
 @204 = ~*You decide to cut ties with the Shar-Teel before it becomes a big problem* Yeah, I wanted to talk. I think our relationship has gone too far. Let's stay friends.~
-@205 = ~*Shar-Teel looks surprised, but holds back her emotions* Hmph. As you know.~
+@205 = ~*Shar-Teel looks surprised, but holds back her emotions* Hmph. It's a sad. But... as you wish.~
 @206 = ~*You pour her a love potion: the "Passionate Maiden", tart-tasting red wine, the strongest on Faerun, bought in advance from the priestess of the goddess Sune*~
 @207 = ~Not a bad wine. You know my taste. So, what did you want?~
 @208 = ~You know what I want. Isn't that why you took a bath for two whole hours?~
@@ -289,7 +289,7 @@
 @215 = ~I've never judged you on anything, ever. Well maybe before... but not for real. If you slaughter a hundred priestesses from Selune's temple tomorrow, I'll just help you bury their corpses. In all the Realms, I have no one closer to me than you!~
 @216 = ~*You embrace Shar-Teel and seal her lips to yours. Your long kiss already seems impossible to end. Eventually Shar-Teel gently pulls you away, remembering to bite your lip lightly.*~
 @217 = ~*Amazon struggles to catch her breath and looks at you with admiration*~
-@218 = ~It's like she missed two blows at once: to the head and to the stomach! You hugged me so hard my eyes went black. Wait, let me see, what did you want? Oh, right, Loviatar.~
+@218 = ~IIt's like I got hit in the head and the stomach at the same time! You hugged me so hard my eyes went black. Wait, let me remember what you wanted... Oh, right, Loviatar.~
 @219 = ~The whip and stuff are in the backpack. We're alone here.~
 @220 = ~Shadow Armour, eh? I see you didn't skimp. Close your eyes, lover boy.~
 @221 = ~*After a while, you see Shar-Teel in front of you, whip in hand, wearing black leather armour and boots that perfectly accentuate her gorgeous long legs*~
@@ -347,7 +347,7 @@
 @273 = ~*Shar-Teel greets your awakening with a smile: pleased and slightly sarcastic* My hero is finally awake. ~
 @274 = ~While you were sleeping, I was thinking.~
 @275 = ~About us. About you. And about myself. I've never felt so good. Even better than when I'm crushing your enemies in battle. ~
-@276 = ~Sounds like a declaration of love, the Bearess.~
+@276 = ~Sounds like a declaration of love, my Bearess.~
 @277 = ~It feels good to be with you. It's good to know who's friend and who's foe. It's good to fall asleep next to each other, in the same sleeping bag. And listen to all the smart crap you talk about. Sometimes I feel like I don't know anything about the world I live in.~
 @278 = ~*Instead of answering, you squeeze Shar-Teel's hand lightly. And you decide not to tell her that she snores when she sleeps. You're starting to like the sound of it anyway.*~
 @279 = ~Devil, we should get up. Which Shar-Teel does, with the heavy grace of a warrioress*~
@@ -475,11 +475,11 @@
 @390 = ~No, nothing. It's nothing.~
 @391 = ~...The Fury Storm Squad, maybe??~
 @392 = ~Some lowlifes from the South, also called like that, perished in the claws of the Baatezu, about ten years ago. But it's a good one. You can take one sweet.~
-@393 = ~I like your version. Yeah, The Steel-Poor Squad! For the poor people!~
+@393 = ~I like your version. Yeah, The Steel-for-Poor Squad! For the poor people!~
 @394 = ~Will we be cleaning a peasant's cowshed and fighting for beggars? Hell no, I withdraw my option.~
 @395 = ~Too late for you! Our mission is to help working people and their social and economic interests!~
 @396 = ~Right, <CHARNAME>!~
-@397 = ~Why are you agreeing with him? Is there something between you?! Speak up!~
+@397 = ~Why are you agreeing with him? Is there something between you two?! Speak up!~
 @398 = ~*Nalia blushes* Of course not! I just... I just wanted to say that I also think it's important to help ordinary people. There's nothing wrong with that.~
 @399 = ~Okay then. *Shar-Teel turns to you again*~
 @400 = ~God damn you, fool! When you're done talking rubbish, come and see me. I'll see what I can do to help you.~
@@ -554,7 +554,7 @@
 @471 = ~And I don't intend to fight forever. There will come a time, and we will part.~
 @472 = ~But we can stay together. We can, no, not like this - we HAVE to go on. I've dreamed for a long time that you would learn to live in peace.~
 @473 = ~Peace? For me? You're confusing me with someone else, <CHARNAME>.~
-@474 = ~I'm not confusing you with anyone. I care about your fate, Shar-Teel. I want to be with you. I want us to have a home.~
+@474 = ~I care about your fate, Shar-Teel. I want to be with you. I want us to have a home.~
 @475 = ~Maybe so. But I care about your fate, Shar-Teel. I want to be with you. But we can't live by the sword alone. We can live differently if we want.~
 @476 = ~Maybe you're right. Let's leave everything as is. Forget about this conversation.~
 @477 = ~*Looks at you in confusion* A home? You mean our... home?~
@@ -582,7 +582,7 @@
 @499 = ~Don't touch her, <CHARNAME>. She's better be alone right now.~
 @500 = ~I never thought he'd have the courage to propose to HER. ~
 @501 = ~Sh-h! Nothing has been decided yet.~
-@502 = ~*Couragingly pats your hand* She'll be fine. Don't worry. ~
+@502 = ~*she encouragingly pats your hand* She'll be fine. Don't worry. ~
 @503 = ~You think so?~
 @504 = ~Of course. Did you see how briskly she ran away? Breaking bushes as well as a wild boar, hehe. No one don't act like that in sorrow. She'll be back. You'll see.~
 @505 = ~Maybe I should walk on air, huh? Don't ask me for something I don't have, <CHARNAME>. I thought about peace before you, and...~
@@ -627,7 +627,7 @@
 @539 = ~Ahahaha! The "death sentence" you said? - don't make me laugh! And who did it: you and your Chondathan mate? No, he was hanged a month ago. Thou are a stupid bitch, thou know that? It is only the Chapter of the Nightbringers that can judge me.~
 @540 = ~If you get out of our way quietly, I'll spare thou, so be it. Get lost.~
 @541 = ~You've given no mercy to anyone, ever!~
-@542 = ~*She shifts her angry gaze to you* So the rumours weren't lying - that's why she betrayed Shar, it's all because of you, you Bhaal Spawn! First, I'll teach her to respect the Church as she should. Then I'll come and deal with you!~
+@542 = ~*She shifts her angry gaze to you* So the rumours weren`t lying - this is why she betrayed Shar, it is all due to you, Bhaal Spawn! First, I'll teach her to respect the Church as she should. Then I'll come and deal with you!~
 @543 = ~Who is she? I see you two know each other.~
 @544 = ~This is Liora, high priestess of Shar, we call her the Mad. I was tasked with guarding her long ago when I was an acolyte.~
 @545 = ~What was she talking about? Did you have a mission... concerning me?~
@@ -674,7 +674,7 @@
 @584 = ~Tell me more about your mission.~
 @585 = ~Since when did you start guarding caravans?~
 @586 = ~Why do you need it?~
-@587 = ~It's no big deal – I'll just sit in the hold of the ship the whole damn way. I'm a Heraldess of the Night, so I guard the property of the Church of the Night. That's the only way you can make a career in the Church; every first one there serves as an errand boy for important Church bosses. ~
+@587 = ~It's no big deal   I'll just sit in the hold of the ship the whole damn way. I'm a Heraldess of the Night, so I guard the property of the Church of the Night. That's the only way you can make a career in the Church; every first one there serves as an errand boy for important Church bosses.~
 @588 = ~I must seek your permission to embark on my mission. Nearly akin to a verse, innit?~
 @589 = ~I don't need your permission to go on a mission, but I'm going to ask anyway.~
 @590 = ~I don't like this very much. How long are you sailing for?~
@@ -702,7 +702,7 @@
 @612 = ~Really? I'm glad. I spent half a day looking for perfuming artemisia on the Promenade. I didn't even know if you'd like the bitterness. They only have one oriental perfume that is all sweet and musky, yuck, gross! ~
 @613 = ~Really? I'm glad. Me and Imoen spent half a day looking for perfuming artemisia on the Promenade. I didn't even know if you'd like the bitterness. They only have one oriental perfume that is all sweet and musky, yuck, gross! ~
 @614 = ~Really? I'm glad. Me and Safana spent half a day looking for perfuming artemisia on the Promenade. I didn't even know if you'd like the bitterness. They only have one oriental perfume that is all sweet and musky, yuck, gross!~
-@615 = ~Druids often use mugwort as an ingredient to make healing potions. It’s a useful herb. ~
+@615 = ~Druids often use mugwort as an ingredient to make healing potions. It s a useful herb. ~
 @616 = ~I read somewhere that lovers who don't like each other's smell are bound to break up.~
 @617 = ~That's true, I've heard that too. But I like your smell. I really, really do.~
 @618 = ~Your skin smells like ghost violets - I once slept in a clearing full of them and remembered their smell.  I guess that's what a girl should smell like, young and beautiful. Who needs to be loved.~
@@ -723,10 +723,10 @@
 @633 = ~Okey. By the way, I have a present for you, my lioness.~
 @634 = ~Your present is in your trousers, and I'm going to get it tonight - whether you want it or not. And I KNOW you want it. ~
 @635 = ~But you've piqued my interest. What's the gift?~
-@636 = ~Here. The master craftsman who made this collar said it gives good protection against fire. *You give her the collar made from Hellhound leather which you purchased from the craftsman on Waukåån's Promenade.*~
-@637 = ~It says, “Bad Girl.” That's so cute! Thank you! ~
+@636 = ~Here. The master craftsman who made this collar said it gives good protection against fire. *You give her the collar made from Hellhound leather which you purchased from the craftsman on Waukeen's Promenade.*~
+@637 = ~It says: "Bad Girl".  That's so cute! Thank you! ~
 @638 = ~*In a burst of emotion, the amazon kisses you, then immediately frees herself from the armour and tries the collar on.* What do you think?~
-@639 = ~It’s look great on you!~
+@639 = ~It s look great on you!~
 @640 = ~I imagined it on you a little differently, but...~
 @641 = ~I won't be wearing anything today except your gift.  And, since I'm a bad girl, I should be punished. Or you. Take out a coin.~
 @642 = ~*You take a small coin out of your pocket. On one side of it is a helmet, on the other - a cloak. All that remains is to choose one of these images, and then toss the coin and find out which side will be on top*~
@@ -756,13 +756,13 @@
 @666 = ~*The warrioress hesitantly begins to grunt* Aye! Hrrr! I am a pig! Yes, that's who I am!~
 @667 = ~That's right. You are my slave from now on.~
 @668 = ~It is an honour to serve you, Master!~
-@669 = ~Great. You were looking forward to the "cloak" more than the "helmet", weren't you? ~
+@669 = ~Great. You were looking forward to the "cloak" more than the "helmet", weren't you?~
 @670 = ~*She smiles broadly at you* Oh, yeah!!~
 @671 = ~*You knock your bearess off her feet with a powerful push (you're always ready to back up her fall, though)* This is your place in life now. On the ground at my feet. ~
 @672 = ~Show me who's boss! Hurry up, step on me, and take a kingly pose. Pray tell, milord, show me my proper place beneath your heel.~
 @673 = ~Are you okay..., I mean, do you want more, you insatiable pig!?~
 @674 = ~Yes, that's not nearly enough, Master. Please take me from behind!~
-@675 = ~*Without any further words, you wind Shar-Teel's hair around your fist and take her, mercilessly and roughly, spurred on by her loud moans. When your strength finally runs out, the indefatigable amazon climbs on top of you herself. The hours fly by, and you fall asleep in each other's arms in the morning.*~
+@675 = ~*Without any further words, you wind Shar-Teel's hair around your fist and take her, mercilessly and roughly, spurred on by her loud moans. When your strength finally runs out, the indefatigable amazon climbs on top of you herself. The hours fly by, and you two fall asleep in each other's arms in the morning.*~
 @676 = ~Wow! That's the first time I've ever seen that. What are you gonna do, flip it again? ~
 @677 = ~No. There's a rule: a coin on the edge means a foot massage for beloved wife.~
 @678 = ~I'm all for it, handsome! Get to work.~
@@ -774,15 +774,15 @@
 @684 = ~Since you asked: many of the churchmen of Shar... what did you say? I've heard you use that word - living for pleasure?~
 @685 = ~Hedonists?~
 @686 = ~Exactly. Like hungry mites in the spring. Our clerics are faithless, don't like responsibility, and serve for one benefit only. They're the reason Shar is losing the war to Selune. *Shar-Teel's breathing is cut short as you kiss her toes. Yeah! That's it!~
-@687 = ~Though Shar is a Great Deity, her might on Faerun is waning. There are not many of us Sharran, and we have no allies except the Church of Talona. Most folk of the Kingdoms have no sympathy for us or our dogma. All they want is to fill their bellies and have good lords over them. ~
+@687 = ~Though Shar is a Great Deity, her might on Faerun is waning. There are not many of us Sharran, and we have no allies except the Church of Talona. Most folk of the Kingdoms have no sympathy for us or our dogma. All they want is to fill their guts and have good lords over them.~
 @688 = ~Well, having traded my freedom for a collar myself, what can I say about them?~
-@689 = ~*You go lower and massage Shar-Teel's feet with more force, making her start to moan softly* You think: was the collar worth it? ~
+@689 = ~*You go lower and massage Shar-Teel's feet with more force, making her start to moan softly* You think: was the collar worth it?~
 @690 = ~Gods, it was worth it! To hell with the church! Come here! I'll show you one Crinti technique...! *She pulls you to her in a confident and commanding motion, and you are entwined together in carnal games. The hours fly by and it is only in the morning that you fall asleep, wrung dry, just as Shar-Teel had promised.*~
-@691 = ~: I left a mark on your neck so you'd remember me.~
+@691 = ~I left a mark on your neck so you'd remember me.~
 @692 = ~*Your wife's volcanic temperament has shown itself to its fullest extent - there is no living place on you: your back is bruised by her nails, your lower lip is bitten by her teeth, your ribs and arms are bruised like after a fight with an ogre.*~
 @693 = ~I can't find my greaves. Have you seen them?~
 @694 = ~No. You'll buy another pair, those were cheap.~
-@695 = ~It's already time. Oh, for god's sake, what a headache! Don't see me off, you know I don't like it. I'll be back in a fortnight. *She kisses you* See you soon, cutie pie-hubby. ~
+@695 = ~It's already time. Oh, for god's sake, what a headache! Don't see me off, you know I don't like it. I'll be back in a fortnight. *She kisses you* See you soon, cutie pie-hubby.~
 
 // PC - Shar-Teel  (romance talk 14)
 @696 = ~Do you miss me?~ [SHRAR]
@@ -858,7 +858,7 @@
 @760 = ~*You inhale the lotus and a little while later, through the narcotic daze, a specific thought begins to enter your mind. The thought that your damn seductive and accessible wife is right next to you*~
 @761 = ~*The problem, however, is that you need an action: either you need to stand up (which is completely impossible because you now weigh a thousand pounds) or Shar-Teel needs to lie down and preferably right on top of you*~
 @762 = ~*The amazon understands your predicament and, judging by her lustful grin, is quite willing to help. Her foot comes down on you forcefully and begins to massage you, giving you welcome relief...*~
-@763 = ~*Acouple of hours later you come round and wake up your lady*~
+@763 = ~*A couple of hours later you come round and wake up your lady*~
 @764 = ~I seem to have fallen asleep. How long has it been?~
 @765 = ~I don't know, I fell asleep next to you. Seems like a few hours.~
 @766 = ~That was a great idea about lotus, well done. And it's a good thing you fell asleep on your side, cos I forgot to tell you.~
@@ -884,7 +884,7 @@
 @784 = ~Then all that remains is to find a priest who will agree to perform the ceremony.~
 @785 = ~I only saw the temple of Waukeen in the city, so it seems we have no choice. Try asking there. But I'm not sure they will agree - for priests of other religions, mentioning Shar during such a sacred rite may be... unacceptable.~
 
-// ToB - Dialogue with Sister Fariel (SARTEM01.DLG - State 0 è 3)
+// ToB - Dialogue with Sister Fariel (SARTEM01.DLG - State 0   3)
 @786 = ~I know this sounds crazy, but... could you perform a wedding ceremony? My friend and I want to get married.~
 @787 = ~I'm not surprised by anything. We've been living under fire for a long time, and it teaches us to value loved ones and the connection between us. So I can perform the ceremony right now.~
 @788 = ~There is one complication. I am a priestess of the goddess Shar. And it is important to me that Shar sees that I am faithful to her even at this moment. I will write the words that must be read during the ceremony. If you are ready to do so.~
@@ -959,7 +959,7 @@
 @909  = ~No deal with the enemy', my lady!~
 @910  = ~I believe in you. You're gonna win today.~
 @911  = ~Today I will kill him, and then you will please me to the fullest!~
-@912  = ~Yes Master! You're gonna win today.~
+@912  = ~Yes, Master! You're gonna win today.~
 
 // Adds
 @913  = ~If I asked you to give me some advice, what would you say?~ [PIDS3]
@@ -968,7 +968,7 @@
 @916  = ~Yeah, do your best. I believe in you.~
 @917  = ~How about: "Strength is an advantage. A person with strength has an advantage. A person with more strength has a greater advantage." What do you think?~
 @918  = ~Sounds good! And wisely deep. Whatever... I believe in you, my champion!~
-@919  = ~How about: "When the seagulls follow the nef, it’s because they think sardines will be thrown into the sea."~
+@919  = ~How about: "When the seagulls follow the nef, it s because they think sardines will be thrown into the sea."~
 @920  = ~What's that mean? Is that some kind of poetry? Whatever... as long as you don't go missing without my strong guidence. If I could take you with me and chain you secretly in the hold, we'd have a lot of fun.~
 @921  = ~Yep.~
 @922  = ~Yeah, do your best. I believe in you, my champion.~
