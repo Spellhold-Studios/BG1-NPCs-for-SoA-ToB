@@ -31,7 +31,7 @@ END
 
      // convert strings to UTF-8 for BGEE/BG2EE
 	
-ACTION_DEFINE_ARRAY 9xnoconvert BEGIN END
+ACTION_DEFINE_ARRAY 9xnoconvert BEGIN install END
 ACTION_DEFINE_ARRAY 9xreload BEGIN setup END
 
   LAF HANDLE_CHARSETS
@@ -67,7 +67,10 @@ LANGUAGE ~English~
 LANGUAGE ~Russian, by Arcanecoast Team (Austin, yota13 & MacksimSl)~
          ~Russian~
          ~BG1NPCSoA/tra/Russian/Setup.TRA~
-
+LANGUAGE ~Simplified Chinese~
+         ~Chinese~
+         ~BG1NPCSoA/tra/Chinese/install.TRA~
+		 
 BEGIN @0 DESIGNATED 0
 GROUP ~Main Mod~
 REQUIRE_PREDICATE GAME_IS ~bg2 tob bgt bg2ee eet~ ~Not support game~
