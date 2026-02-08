@@ -191,8 +191,8 @@ It was none other than Garrick!~
 @185  = ~I think you've made a good decision. We are surely at the beginning of an epic tale. Lead on!~ [GARRICKG]
 @186  = ~Ah well, I suppose it will give me the opportunity to work on this new ballad I've been thinking of... I bet you'll never guess who the protagonists are! All right then, I'm sorry for taking up your time.~
 
-@187 = ~What, exactly, is love? Why it’s the most wonderful, even greater than the most wonderful - no, it’s the greatest, even greater than... no, that still doesn’t quite explain it.~ [GARRICKT]
-@188 = ~Rather, it’s like the dawn light shining over a field of the most beautiful wild - but perhaps that is too metaphorical. Is there anything better? There’s no need to answer. I’m glad I was able to explain.~
+@187 = ~What, exactly, is love? Why itâ€™s the most wonderful, even greater than the most wonderful - no, itâ€™s the greatest, even greater than... no, that still doesnâ€™t quite explain it.~ [GARRICKT]
+@188 = ~Rather, itâ€™s like the dawn light shining over a field of the most beautiful wild - but perhaps that is too metaphorical. Is there anything better? Thereâ€™s no need to answer. Iâ€™m glad I was able to explain.~
 @189 = ~Silence your tongue poet! I wasn't talking to you!~
 
 @190 = ~You don't have to bow to me, my friends. It was not difficult for the brave and courageous Sir Garrick to save your city! Let me sing a song about it for you! ~ [GARRICKQ]
@@ -324,7 +324,7 @@ Please won't you go, adventure?~
 @299 = ~That's right. These "devils of the depths" are too dangerous of creatures. They are a threat to ships and coastal villages. As amazing as this city is, we cannot allow these monsters to recover by supporting their rebels.~
 @300 = ~<CHARNAME>, in the name of Milil, the lord of songs... If these "devils of the deep" come into force, they will more often attack ships of land races, and ravage coastal villages. Who needs that and why?~
 @301 = ~Nevertheless, I'll pretend I didn't hear anything.~ [GARRICK8]
-@302 = ~There’s nothing to talk about. ~
+@302 = ~Thereâ€™s nothing to talk about. ~
 @303 = ~That's it. They even saved us only to use us later. We're running errands for angry fish...~
 @304 = ~They are evil creatures, but they still saved us.~
 @305 = ~Just for later use. We're running errands for angry fish... ~
@@ -427,14 +427,14 @@ And all the hills echoed.~
 
 // Garrick - PC (after Bodhi kidnaps the protagonist's beloved)
 @383 = ~<CHARNAME>... this is awful for what happened. I can only imagine how you feel right now!~ [GARRICKW]
-@384 = ~But don’t worry, we will give this villainous vampire the death that she deserves and save your love.~
+@384 = ~But donâ€™t worry, we will give this villainous vampire the death that she deserves and save your love.~
 @385 = ~Thanks, Garrick. I'm glad that I have a friend like you~
 @386 = ~Thank you for your sympathy. Although it's best not to say anymore on the matter.~
 @387 = ~Garrick, get off my back, I'm having a hard time coping with what just happened.~
 @388 = ~And I'm glad to be friends with you! And I will always help in any way I can. Don't be upset, <CHARNAME>, believe in the best and we will triumph!~
 @389 = ~Yes... I understand. My apologies, but if you need anything, I will be here for you.~
 @390 = ~I just wanted to sympathize to you... I know this must be hard for you, so I will leave you be if that is what you truly wish.~
-@391 = ~Although... no, I can't imagine how I myself would feel if this happened to Nalia, I don't even want to think. But don’t worry, we will give this villainous vampire the death that she deserves and save your love.~
+@391 = ~Although... no, I can't imagine how I myself would feel if this happened to Nalia, I don't even want to think. But donâ€™t worry, we will give this villainous vampire the death that she deserves and save your love.~
 
 // interjections
 @393 = ~Oh gods! Yes, this is a woman - the very evil in the flesh. No? Well, when I describe all this, the scene will come out just right - night, cemetery... that's a creature. But please be careful, <CHARNAME> - an alliance with her will not bring us any good or glory, but only destruction.~
@@ -444,7 +444,7 @@ And all the hills echoed.~
 @400 = ~Look... I'd like to talk to you. On one delicate topic. Tell me, <CHARNAME>... Your heart isn't free, is it? ~
 @401 = ~Of course not. It would be difficult to live without love. ~
 @402 = ~Yes, you can see it, you just shine! Then maybe you can give me some advice... I... actually... well... ~
-@403 = ~I don’t love anyone yet, but I think it’s coming soon. ~
+@403 = ~I donâ€™t love anyone yet, but I think itâ€™s coming soon. ~
 @404 = ~It's like you're on the verge of a magical discovery, right? Wonderful... Anyway, I was wondering if you can give me some advice? I... well...~
 @405 = ~My heart is free. Free for now. ~
 @406 = ~I'm sure this won't always be the case. It seems to me that your heart is open to love. But anyway, I was thinking if you can give me some advice? I... well...~
@@ -454,9 +454,9 @@ And all the hills echoed.~
 @410 = ~Of course, Nalia! I was not going to pester you with love. Just thought you could give me advice. I... well... ~
 @411 = ~Garrick, is this a hint? Sorry friend, but I prefer women.~
 @412 = ~Me too! It's about something else altogether. I just thought you could give me advice. I... well... ~
-@413 = ~I don’t love anyone and I don’t intend to! ~
-@414 = ~Don’t renounce it! So many said, and then... But in any case, you are not interested in what I wanted to say. Sorry to bother you.~ [GARRICKT]
-@415 = ~Garrick, you are rolling up to me, aren't you? I don’t need such joy.~
+@413 = ~I donâ€™t love anyone and I donâ€™t intend to! ~
+@414 = ~Donâ€™t renounce it! So many said, and then... But in any case, you are not interested in what I wanted to say. Sorry to bother you.~ [GARRICKT]
+@415 = ~Garrick, you are rolling up to me, aren't you? I donâ€™t need such joy.~
 @416 = ~<CHARNAME>, trust me, you're not smug. I'm not talking about that at all, but now I don't even want to talk to you. Forget I said anything.~
 @417 = ~This is not a topic I want to discuss with you, Garrick. ~
 @418 = ~Think I'm tactless? But I just asked in a friendly way... Okay, let's not talk about this.~
@@ -474,9 +474,9 @@ And all the hills echoed.~
 @430 = ~Still... about you... ~
 @431 = ~As for me... I don't have to think about words of love. They are born by themselves. Free, inspired by a sincere feeling.~
 @432 = ~Sounds great! I even envy you a little... In a good way. ~
-@433 = ~Garrick, when you truly love, you don't have to worry about the beauty of words. You just have to be yourself, and your heart will tell you. It didn’t work with Lady Irlana because you didn’t love her.~
+@433 = ~Garrick, when you truly love, you don't have to worry about the beauty of words. You just have to be yourself, and your heart will tell you. It didnâ€™t work with Lady Irlana because you didnâ€™t love her.~
 @434 = ~Yes, I understand that now. Thank you, it somehow made my heart feel better from having this conversation.~
-@435 = ~Garrick, when you truly love, you don't have to worry about the beauty of words. You just have to be yourself, and your heart will tell you. You didn’t work out with Lady Irlana because you didn’t love her. But if everything is different with Nalia... just do not repeat your mistaken feeling of love from the past.~
+@435 = ~Garrick, when you truly love, you don't have to worry about the beauty of words. You just have to be yourself, and your heart will tell you. You didnâ€™t work out with Lady Irlana because you didnâ€™t love her. But if everything is different with Nalia... just do not repeat your mistaken feeling of love from the past.~
 @436 = ~I don't love anyone yet... with that love. So I definitely won't be able to help you with practice, sorry.~
 @437 = ~Come on, it's no big deal. Thanks for this conversation.~
 @438 = ~Want to know how I declare my love? No way. Besides, why use words when you can just touch?~
@@ -498,7 +498,7 @@ And all the hills echoed.~
 @451 = ~Do you think so? Perhaps you're right... somewhat.~
 @452 = ~Experience changes people, you know. ~
 @453 = ~Okay, I'll be quiet. Your temper is not easy.~
-@454 = ~Ah, my friend <CHARNAME>! Everything flows, everything changes. Who said that? Oh, I don’t remember. The environment changes the sense of self. Athkatla is by no means the city of my dreams, but the people here are demanding, and the women are... sophisticated.~
+@454 = ~Ah, my friend <CHARNAME>! Everything flows, everything changes. Who said that? Oh, I donâ€™t remember. The environment changes the sense of self. Athkatla is by no means the city of my dreams, but the people here are demanding, and the women are... sophisticated.~
 @455 = ~In a city where money is in charge of everyone (which I don't really have, to be honest), you inevitably have to oppose other people's riches with the treasures that gods and nature have generously endowed you with. ~
 @456 = ~In other words, are you trying to break through on your own where others can easily buy a ticket? My hat is off to you.~
 @457 = ~So you're just showing off in front of the local girls? ~
@@ -519,7 +519,7 @@ And all the hills echoed.~
 
 // Garrick's Quest
 @472 = ~<CHARNAME>, something is bothering me. I have a feeling that I am being watched.~
-@473 = ~I don’t recognize you like this Garrick, where is your fervor? Persecution mania doesn't suit you.~
+@473 = ~I donâ€™t recognize you like this Garrick, where is your fervor? Persecution mania doesn't suit you.~
 @474 = ~You're being watched, you say? Well, that is no stranger to us. Don't worry Garrick, no one will hurt you, I won't let them.~
 @475 = ~Don't flatter yourself, bard. If we are being watched, then, of course, their target is me, not you.~
 @476 = ~Don't whine. I'm not going to listen to your nonsense. ~
@@ -578,7 +578,7 @@ And all the hills echoed.~
 @529 = ~You're also sneering? What has Garrick done to you?~
 @530 = ~I think you have some kind of grudge against Garrick, don't you?~
 @531 = ~What a bastard you are! Do you hate Garrick because he's a good, honest man?~
-@532 = ~You and him were enemies before, or what? You don’t feel sorry for him by the looks of it.~
+@532 = ~You and him were enemies before, or what? You donâ€™t feel sorry for him by the looks of it.~
 @533 = ~I have nothing to love him for. Once we played together in the troubadours of the valley wind. Ha ha, our guys took the boy by the nose quite well then. Not only his beautiful voice was used...~
 @534 = ~Garrick was our pass to many good places, but it was impossible to suspect that the owner of such big sincere eyes was bad intentions. Refined ladies, even a duchesses, almost fell in love with him, and this gave us access to noble houses... and to the wallets of their owners and guests.~
 @535 = ~And then Garrick figured out your game?~
@@ -597,7 +597,7 @@ And all the hills echoed.~
 @548 = ~Now you know.~
 @549 = ~Well... I guess I can understand you. You should have been tougher with him. ~
 @550 = ~We weren't too affectionate with him anyway... he's a foolish puppy.~
-@551 = ~And then... Well, my paths diverged with the Dale Wind Troubadours too. Fate brought me to Athkatla. I didn’t expect to meet Garrick here, but I almost accidentally ended up at his performance. ~
+@551 = ~And then... Well, my paths diverged with the Dale Wind Troubadours too. Fate brought me to Athkatla. I didnâ€™t expect to meet Garrick here, but I almost accidentally ended up at his performance. ~
 @552 = ~He changed, felt more enchanted, became more confident... and it immediately became clear that he treasured his bardic reputation. I thought, not to renew our acquaintance... unless it was on some interesting terms.~
 @553 = ~Which terms?~
 @554 = ~So you decided to blackmail him? ~
@@ -628,7 +628,7 @@ And all the hills echoed.~
 @579 = ~Eh, I can see from your eyes that you are not joking. Take it and be damned ~
 @580 = ~*You can see that Thomas is wearing fine elven chain mail, the kind that bards love so much when casting spells.* Take off your chain mail. You hurt my friend Garrick, and I will give it to him as moral compensation. ~
 @581 = ~But I...~
-@582 = ~Get moving or we’ll take every last thread off and leave you here naked.~
+@582 = ~Get moving or weâ€™ll take every last thread off and leave you here naked.~
 @583 = ~You'd better not argue. I'm trying to help you. Anyone else in my place would just kill you, but I have a lot of kindness and generosity.~
 @584 = ~Do we know each other, <PRO_SIRMAAM>? ~
 @585 = ~The black lotus blooms at night.~
@@ -656,7 +656,7 @@ And all the hills echoed.~
 @607 = ~Oh, so why didn't you say right away that this was Faerun's sweet-sounding nightingale? I fell in love with this boy as my own son! The insignificant Garib just wanted to show him the glorious lands of Calimshan, blessed by all the gods. There is nothing wrong with that, yes?~
 @608 = ~So you want to see this kind young man? Follow me then!~
 @609 = ~<CHARNAME> why are we still talking to him?! Listen, scoundrel, if you don't lead us to Garrick right now... you'll find yourself in the middle of a magical explosion like no other in Faerun has ever seen!~
-@610 = ~Oh, hush, hush, most powerful of sorcerers. Your eyes blazing with anger blind Garib... He trembles. Oh no, don’t... I’m already leading you to this beautiful boy! ~
+@610 = ~Oh, hush, hush, most powerful of sorcerers. Your eyes blazing with anger blind Garib... He trembles. Oh no, donâ€™t... Iâ€™m already leading you to this beautiful boy! ~
 @611 = ~Enough with the mindless chatter!~
 @612 = ~No, no! Your words, which are gold in themselves, immediately found their way to Garib's heart. I only ask you for a modest amount of 2,000 gold coins. ~
 @613 = ~2000 gold? Okay, take it.~
@@ -742,7 +742,7 @@ Beauty o'er-snowed and bareness every where..."~
 @682 = ~<CHARNAME>... I don't want to continue this conversation.~
 
 // interjections
-@683 = ~This damn city sometimes seems like an appendage of the Hells to me! I’ll probably get a good drink on vacation, otherwise my fragile mental balance will be seriously shattered.~ [GARRICKL]
+@683 = ~This damn city sometimes seems like an appendage of the Hells to me! Iâ€™ll probably get a good drink on vacation, otherwise my fragile mental balance will be seriously shattered.~ [GARRICKL]
 @684 = ~Wow! We have vanquished the red dragon! The heroic song, consider it, which is already ready and the main thing is that I don't need to invent anything. This is great, <CHARNAME>. What a mind blowing adventure!~ [GARRICK5]
 @685 = ~Oh... I feel like I'm a bird with wings that have been clipped so I can no longer fly. We can at least get out of here later, hopefully? What a terrible place. In such places, inspiration is completely lost.~
 @686 = ~<CHARNAME>... so this is your father's strength! I... I can't even find words, it's too... you... how are you feeling? Because even looking at it was terrible. Hold on, this is good stuff *Scribbles in his book*~ [GARRICKL]

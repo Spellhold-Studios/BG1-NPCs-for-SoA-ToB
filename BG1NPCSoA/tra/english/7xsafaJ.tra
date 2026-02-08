@@ -81,7 +81,7 @@
 @80  = ~Now wait a sec, what have we ere then? Well, well, well, if it is not Safana, the captain's wench from my old pirate ship, the Exzesus! Now this is just too sweet then!~
 @81  = ~William Wormwood! I thought you died on that island we marooned you on.~
 @82  = ~That's Capatain Wormwood to you, wench! A few weeks after you convinced the ole captain that me and my lads were guilty of mutiny and he left us there on that god forsaken island to die, we were rescued by a trading ship which we commandeered after butchering the crew. Changed her name to the Night Shark, I did.~
-@83  = ~How terribly passé.~
+@83  = ~How terribly passÐ¹.~
 @84  = ~I've had enough of your lip, wench! Kill her, mates, along with any of her friends too. I'll have no word of this leaking out!~
 @85  = ~Well, if it isn't the most famous pirate whore on this side of the Shining Sea, Safana of Calimport.~
 @86  = ~Gian Silverblade, you son of a bitch, what are you doing here?~
@@ -200,10 +200,10 @@
 @197 = ~Brynnlaw, the island of pirates and fishermen... Ah, how many memories this brings to me. I've been here before during my voyages on The Exzesus.~ [SAFANAS]
 @198 = ~Here, each of the residents has linked their fate with the sea, one way or another. ~
 @199 = ~The sea... Neither the landlubber, nor the seamen, nor us, would be able to say: "I recognize it, it is familiar to me, and hides no secrets".~
-@200 = ~Who has already deciphered the mystery of the sea? Wealth and death come from the sea, and isn’t the moon more beautiful when seen at the sea?~
+@200 = ~Who has already deciphered the mystery of the sea? Wealth and death come from the sea, and isnâ€™t the moon more beautiful when seen at the sea?~
 @201 = ~The sea is unstable, and so are lives of the sailors. Which of them has had a death equal to the men on land who caress grandchildren and bring families together at lunches and dinners? None of them walk at a steady pace like landlubbers. Every seaman has something at the bottom of the sea: A son, a brother, an arm bitten by a shark, a ship that was shipwrecked in a storm...~
-@202 = ~However, who of them can’t sing songs of love on the nights in the harbor? Who of them cannot love with violence and sweetness? For each time they love and sing, it may be their last. I've heard a lot of these songs and felt a lot of their love, so I know what I'm talking about.~
-@203 = ~(Safana checks to make sure that Coran doesn't hear her) However, who of them can’t sing songs of love on the nights in the harbor? Who of them cannot love with violence and sweetness? For each time they love and sing, it may be their last. I've heard a lot of these songs and felt a lot of their love, so I know what I'm talking about.~
+@202 = ~However, who of them canâ€™t sing songs of love on the nights in the harbor? Who of them cannot love with violence and sweetness? For each time they love and sing, it may be their last. I've heard a lot of these songs and felt a lot of their love, so I know what I'm talking about.~
+@203 = ~(Safana checks to make sure that Coran doesn't hear her) However, who of them canâ€™t sing songs of love on the nights in the harbor? Who of them cannot love with violence and sweetness? For each time they love and sing, it may be their last. I've heard a lot of these songs and felt a lot of their love, so I know what I'm talking about.~
 @204 = ~<CHARNAME>, see this shell? I've been carrying it around since my maritime adventures.~
 @205 = ~Why have you been carrying around this shell for so long?~
 @206 = ~Are you suggesting that you want to give it to me?~
@@ -236,7 +236,7 @@
 @233 = ~I don't like his look, <CHARNAME>. I can smell the catch a mile away. ~
 @234 = ~You are very kind and thank you my beautiful lady! Please help us!~
 @235 = ~The fight begins! Release the beastie! ~
-@236 = ~Well it’s not exactly as you say, but now there is no time to talk, we must hurry!~
+@236 = ~Well itâ€™s not exactly as you say, but now there is no time to talk, we must hurry!~
 @237 = ~Ah, how I love the Docks! The salty scent of the sea, the cries of seagulls overhead... Also, the headquarters of the Shadow Thieves Guild is located here I have heard.~
 @238 = ~I also see Safana with you, our colleague in the rogue's craft. There are many... Interesting rumors about her too.~
 @239 = ~Don't believe the rumors that are spreading about an honest and noble girl. ~ [SAFANAJ]
@@ -251,7 +251,7 @@
 @248 = ~Not bad, Anishai. It's great to see a woman take advantage of her charm.~
 @249 = ~Shiver me timbers! It's Safana! Taverns along the Sword Coast still tell legends about you and your voyages on The Exzesus. What kind of wind brought you to us, beauty? ~
 @250 = ~I still travel everywhere and enjoy what I can. Life's too short to live any other way.~ [SAFANAF]
-@251 = ~You speak as beautifully as you look! I wish I could hug you, but with this iron hook instead of an arm, it’s difficult.~
+@251 = ~You speak as beautifully as you look! I wish I could hug you, but with this iron hook instead of an arm, itâ€™s difficult.~
 @252 = ~I will never give up hugging a sailor! *hugs him*~ [SAFANAJ]
 @253 = ~Ah, you know how to warm an ol' sailor's heart!~
 @254 = ~Do you realize who you're talking to?! I am the daughter of the Calimshan Sultan whose family was very close to Syl-Pasha Ralan el Pesarkhal himself!~ [SAFANA30]
@@ -287,13 +287,13 @@
 @284 = ~I appreciate your vote of confidence, Renal, but I have to refuse. If I agreed, I would have to stay for a long time in Atkhatla and deal with the affairs of the Guild, and I am too used to a life full of adventure and pleasure.~ [SAFAN34]
 @285 = ~Then I will accept the position and I will turn Mae'Var's treachery into your profit Renal~
 @286 = ~Then let's just forget about it.~
-@287 = ~I was finally appreciated! Hopefully the statue is solid gold? I wouldn’t accept anything less.~ [SAFAN19]
+@287 = ~I was finally appreciated! Hopefully the statue is solid gold? I wouldnâ€™t accept anything less.~ [SAFAN19]
 @288 = ~*Safana is grooming herself yet again*~
 @289 = ~Safana, I remember that you used to reject Coran's advances for a long time, but now you seem to be very happy together.~
 @290 = ~*Don't disturb her* ~
 @291 = ~Safana, now is not the time for makeup. We can be attacked at any moment. ~
 @292 = ~Then even more so, if we are attacked and we die, I want to die being beautiful!~ [SAFAN19]
-@293 = ~Sometimes it takes time to realize how you feel. I didn't immediately understand what attracted me to Coran. I didn’t want to fall in love, because it would have become weaker, and therefore I resisted it for a long time, but then I realized that fate cannot be avoided.~
+@293 = ~Sometimes it takes time to realize how you feel. I didn't immediately understand what attracted me to Coran. I didnâ€™t want to fall in love, because it would have become weaker, and therefore I resisted it for a long time, but then I realized that fate cannot be avoided.~
 @294 = ~Throughout my life, I have lived as if I were several individuals. In my father's palace, on a pirate ship, alone with myself and everywhere I was different. Which of these sides of mine are really important and what I want from life, I did not know. It was like my heart was divided into several compartments with a partition between them.~
 @295 = ~When I am with the Coran, I feel whole. I understand who I am and there are no more contradictions.~ [SAFAN19]
 @296 = ~Without Coran, I was like a ship without mooring lines.~
