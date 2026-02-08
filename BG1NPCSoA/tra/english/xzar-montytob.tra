@@ -131,7 +131,7 @@
 @126 = ~You're not as stupid as I first thought, scribbler! So I won't rip your belly open yet, live some more!~ [monty28]
 
 // Melissan
-@127 = ~Greetings from Lord Manshoon himself, bitch! Yes <CHARNAME>, I told you I’m not just helping you. The Zhentarim have their own score with this beast, and you better not know the details.~ [MONTY03]
+@127 = ~Greetings from Lord Manshoon himself, bitch! Yes <CHARNAME>, I told you Iâ€™m not just helping you. The Zhentarim have their own score with this beast, and you better not know the details.~ [MONTY03]
 @128 = ~Agent of Zhentarim? Here? <CHARNAME>, if you travel with people like him, then I underestimated your danger. But even the entire Zhentarim wouldn't help you today, much less this little monster.~ 
 @129 = ~He's not alone here, witch. Soon the order of the Zhentarim will be executed, and I will find out all your secrets, hee-hee-hee! I have some brain worms that I can put into your eyes and ears that will make you tell me everything you know, and I will become even more powerful!~ [xzar20]
 @130 = ~You're a sick man insane one, so I shall kill you first!~ 
@@ -164,7 +164,7 @@
 @147 = ~Wow! Even you noticed it! It looks like you're getting smarter from talking to me!~ [MONTY21]
 @148 = ~You're smarter than you look, dammit!~
 @149 = ~It be better if did not know all the details. For your own safety, I will only say that there are people, and very influential ones, who are interested in her.~
-@150 = ~They didn’t know where to look for her, and they didn’t tell whoever was looking for her would be sure. Only that there is a red-haired woman who asks everyone a lot about the Bhaalspawns.~
+@150 = ~They didnâ€™t know where to look for her, and they didnâ€™t tell whoever was looking for her would be sure. Only that there is a red-haired woman who asks everyone a lot about the Bhaalspawns.~
 @151 = ~I knew right away that she would find ye on her own, you just have to wait.~
 @152 = ~When I saw her in Saradush, I immediately suspected that it was her, but I wasn't sure, and I didn't want to draw attention to myself.~
 @153 = ~So you were assigned to find her? What is going to happen now?~
@@ -174,10 +174,10 @@
 @157 = ~The less you know, the safer you are, <CHARNAME>. Only one thing is important - Now we both need to meet with her, for various reasons...~
 
 //NEW (v.11.6)
-@158 = ~Well, good wizards should know the truth you speak. But then again, what is the nature of truth? And how do wizards approach that nature? For that matter, how does nature approach wizards? In fact, is there truth in natural wizardry, or is there rather –~
+@158 = ~Well, good wizards should know the truth you speak. But then again, what is the nature of truth? And how do wizards approach that nature? For that matter, how does nature approach wizards? In fact, is there truth in natural wizardry, or is there rather â€“~
 @159 = ~Bwhahahaha!~ [xzar3]
 @160 = ~You are such a healthy and strong woman, hmmm... Your internal organs will be very useful to me for my experiments. Do not be afraid, before you die you will not feel anything - I smeared the weapon with a special anesthetic ointment made from very useful mountain herbs!~
-@161 = ~That’s one of the most sedate deaths I know that retains any bit of style at all!~
+@161 = ~Thatâ€™s one of the most sedate deaths I know that retains any bit of style at all!~
 @162 = ~Please forgive the enthusiasm of my colleague, he can be quite passionate in his work you see.~
 @163 = ~Tough decision, yes? I had some instructions from Zhentarim on this occasion, but I have seem to have misplaced them. So I won't be able help you with this, <CHARNAME>.~ [XZAR17]
 

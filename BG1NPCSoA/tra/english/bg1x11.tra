@@ -19,7 +19,7 @@
 @15 = ~What are you implying? ~
 @16 = ~You know, this item would be useful to some completely unattractive person who has absolutely no success with men. ~
 @17 = ~Allow me! I'm fine with that - everyone knows I'm beautiful. ~
-@18 = ~What humility. In this case, I donít understand why you should buy this mirror. 17,000. ~
+@18 = ~What humility. In this case, I don‚Äôt understand why you should buy this mirror. 17,000. ~
 @19 = ~But I want it! It's so... silver, and...~
 @20 = ~17,000 gentlemen. Who will offer more? ~
 @21 = ~You're being disingenuous, madam. There are persistent rumors about you and your many gentlemen. Are you not sure of your enchantment anymore? ~
@@ -88,7 +88,7 @@
 @85 = ~This has nothing to do with it! She is beautiful! ~
 @86 = ~You're all wrong! My Lady Elgea is the most beautiful! ~
 @87 = ~When did I become yours? ~
-@88 = ~Oh my lady, I just hope you donít reject me again when I present you with this tiara. I'm better than that damn Quint Roenall! ~
+@88 = ~Oh my lady, I just hope you don‚Äôt reject me again when I present you with this tiara. I'm better than that damn Quint Roenall! ~
 @89 = ~That's not what I meant, sorry! ~
 @90 = ~What about Lady Oriana? Are you tired of sharing it with a dozen others? And the marriage negotiations with Lady Hylosse? Let me guess - she doesn't love you? Is that why you bother me? ~
 @91 = ~Where are you from... my lady, I...~
@@ -330,8 +330,8 @@
 @315 = ~Would you like our friend's pendant, pathetic lord? Just try to get in our way - you will taste steel, scum! ~
 @316 = ~Nalia, if this is truly your father's gift, then we won't let this rude man get it. R-right, <CHARNAME>?~
 @317 = ~So much shouting over some silly pendant! Why did he surrender to us? Leave him, Nalia, let's go. ~
-@318 = ~This pendant looks cheap. I donít think heís worth that much money. ~
-@319 = ~We're taking it! I know a huckster who can give a pack of black lotus in exchange for this crap! He likes such womenís jewelry. ~
+@318 = ~This pendant looks cheap. I don‚Äôt think he‚Äôs worth that much money. ~
+@319 = ~We're taking it! I know a huckster who can give a pack of black lotus in exchange for this crap! He likes such women‚Äôs jewelry. ~
 
 // Lord Druzzers
 @350 = ~<PRO_SIRMAAM>? Sorry to bother you, my name is Lord Druzzers. I have heard rumors that you are the owner of platinum pantaloons. I am ready to make you an offer you cannot refuse. ~
@@ -430,7 +430,7 @@
 @437 = ~I find this color alluring. Noble gentlemen and women, how can the sincere love of the public be appreciated in gold or platinum?~
 @438 = ~Ah! This fine gentleman knows a lot about unique things!~
 @439 = ~Not so much in things as in sacrament that opens hearts to a sense of beauty. ~
-@440 = ~Iíd like to try this on... ~
+@440 = ~I‚Äôd like to try this on... ~
 @441 = ~Oh no, no, young man, only after the purchase. You don't want to spoil it inadvertently, do you? ~
 @442 = ~But I can see from your gaze that you are interested in the incredible possibilities that this wonderful artifact gives! Do you want to charm an unapproachable woman? Or are you haunted by the laurels of famous bards?~
 @443 = ~I'm already famous! I'm Garrick of the Troubadours! ~
@@ -513,7 +513,7 @@
 @518 = ~Sir, it's not yours yet. The bidding is not closed yet...~
 @519 = ~So finish it up! Knock with your hammer! Knock, I'm telling you!~
 @520 = ~Wait, you can't sell it! I am its owner! It was stolen from me! ~
-@521 = ~Miss Nalia, I donít understand what youíre talking about. Our benefactor is a reliable and respected person, he would never...~
+@521 = ~Miss Nalia, I don‚Äôt understand what you‚Äôre talking about. Our benefactor is a reliable and respected person, he would never...~
 @522 = ~She's lying! You're lying, little de'Arnise, beggar-lover!~
 @523 = ~Lord Gridenbulb, by what right do you insult me?! ~
 @524 = ~You are trying to deceive the audience, and did not even offer your price, but I did!~
@@ -548,7 +548,7 @@
 // Anti-Magic Sapphire
 @551 = ~Ladies and Gentlemen, I welcome you once again to our unique auction, open only to the chosen and most honorable of noble background!~
 @552 = ~Today we are putting up for sale one of the unique artifacts that came to us from the torture chambers of our university. Take a look! ~
-@553 = ~"Handsome," someone might say. ìA precious trinket,î says another. Alas this sapphire is not just an ordinary gem. This is a serious anti-magic device that can shake your faith in the omnipotence of magic.~
+@553 = ~"Handsome," someone might say. ‚ÄúA precious trinket,‚Äù says another. Alas this sapphire is not just an ordinary gem. This is a serious anti-magic device that can shake your faith in the omnipotence of magic.~
 @554 = ~Intriguing? As it should be! This item was not created by the most powerful of wizards, but a true master in the creation of magical artifacts, and believe me, he was well versed in his craft. We believe that with this stone, it's owner could almost on equal terms withstand even the most potent of magic.~
 @555 = ~Yes, most people are forbidden to use magic in Athkatla, and yes, I doubt any of those present like to participate in magic battles. Well, so what? This is still a unique artifact that will surely find its owner - In fact it may have done so already today!~
 @556 = ~Given that we do not know the name that the former owner used to christen this jewel, we gave it the name: Anti-Magic Sapphire!~
@@ -566,7 +566,7 @@
 @568 = ~Very useful! <CHARNAME>, it stabilizes magic! Maybe it can stabilize mine too? Although not likely...~
 @569 = ~An artifact that can resist even the most powerful mage? This is exactly what we need to help us!~
 @570 = ~Truly a valuable item. Unique! So many beneficial properties are collected in just one stone. ~
-@571 = ~Let me tell you; Itís a pleasant surprise for me that there are so many people interested in the magical arts among the audience here.~
+@571 = ~Let me tell you; It‚Äôs a pleasant surprise for me that there are so many people interested in the magical arts among the audience here.~
 @572 = ~Not everyone has a pair of pantaloons in their heads! Many in the audience are dealing with magic. ~
 @573 = ~Oh, now I remember! I recognize the good old Anti-Magic Sapphire. Uncle Scratchy once had one like this. Really very necessary thing if some evil magician stole your favorite vegetable cutter, and you urgently needed it returned. When the harvest is harvested and the bellies rumble, believe me, every minute counts!~
 @574 = ~Well, Uncle Scratchy certainly had a different name for this thing. But then the pebble really came in handy. True, if gentlemen dare to purchase it, then they will have to deal with the consequences of carrying it with them for a long time. Uncle Scratchy, for example, wore it for only a couple of days, and then for six months he could not solve his little problem. On the other hand, Jansen's signature turnip decoction quickly put him back on track. If you know what I mean... Now his wife cultivates turnips and plants them wherever they move...~

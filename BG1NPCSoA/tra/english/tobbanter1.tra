@@ -17,7 +17,7 @@
 @16   = ~You mean Garrick.. formerly of the the Dale Wind Troubadours? I have not heard word or whim of him since he left the group.~
 @17   = ~What? How is it possible that you have not heard of the epic adventures of Brave sir Garrick? Grab a quill and parchment, good man, we have much work that needs to be done!~ [garrickp]
 @18   = ~Tell me about, Skie Silvershield.~
-@19   = ~Ah yes, young Skie Silvershield, daughter of Entar Silvershield, one of the Grand Dukes of Baldur’s Gate.~
+@19   = ~Ah yes, young Skie Silvershield, daughter of Entar Silvershield, one of the Grand Dukes of Baldurâ€™s Gate.~
 @20   = ~After leaving behind the sheltered life she enjoyed in Baldur's gate, she became the leader of her own merchant guild, the Silver Dragons and prospered on her own.~
 @21   = ~Could not have said it better myself.~
 @22   = ~Bring me Shar-Teel, the amazonian gladiator.~
@@ -299,7 +299,7 @@
 @298  = ~Do you remember, Kirian, the leader of that party of adventurers that hailed us not long after you dispatched of Korax?~
 @299  = ~That spitlick? He did not mock us any longer, after I cut off his legs.~
 @300  = ~That may have been a while ago, but you haven't changed.~
-@301  = ~What will you do once we have fulfilled Alaundo’s prophecy about the Bhaalspawn, Shar-Teel?~
+@301  = ~What will you do once we have fulfilled Alaundoâ€™s prophecy about the Bhaalspawn, Shar-Teel?~
 @302  = ~Will you go back to Athkatla to fight in the battle pits again?~
 @303  = ~No, I have wasted enough time slaying mindless beasts and worthless gladiators.~
 @304  = ~After my time with <CHARNAME> is at an end, I will seek out all the remaining Nightbringers in Faerun and defeat them one bye one, until I am the only one left.~
@@ -310,7 +310,7 @@
 @309  = ~This is madness! The spirit that Shar has placed inside of you is taking over the very essence of your soul, amazon. I want no part of what you are speaking of..~
 @310  = ~Ha! I should have known that a weakling magic user would not have the spine to hear the truth. Nothing can stop the prophecy!~
 @311  = ~Do not trouble yourself though, for followers of Shar will still have their magic powers, as the Shadow Weave will be left untouched.~
-@312  = ~How can you be so sure? The Dark Moon heresy teaches that Selûne and Shar are two aspects of the same deity.. That even though they are opposed, that one cannot exist without the other.~
+@312  = ~How can you be so sure? The Dark Moon heresy teaches that SelÑ‹ne and Shar are two aspects of the same deity.. That even though they are opposed, that one cannot exist without the other.~
 @313  = ~I fear that without the Weave of Mystra, the Shadow Weave could not be controlled and would collapse as well.~
 @314  = ~Your fears are meaningless, drow! The Mistress of the Night has powers beyond your comprehension! She will make sure that the powers of darkness remain.~
 @315  = ~Tell me, tiefling, who taught you your sword technique?~
@@ -373,7 +373,7 @@
 @372  = ~I know.. That is why I fancy you so much, I suppose.~
 @373  = ~You make me sick! I could never be with a conniving thief like you!~
 @374  = ~Your words stab me like a dagger..~
-@375  = ~And so the villain that planned to use the Iron Throne as his pawn to drive Baldur’s Gate and Amn into war in now in our service.~
+@375  = ~And so the villain that planned to use the Iron Throne as his pawn to drive Baldurâ€™s Gate and Amn into war in now in our service.~
 @376  = ~By Tempus' Shield! I never thought that such a twist of events was possible.~
 @377  = ~What you think is possible, is irrelevant, Northwoman. I have grasped power beyond your ability to comprehend.~
 @378  = ~It was that greed for power that led to your eveuntual downfall Sarevok.~
@@ -949,8 +949,8 @@ And always ready for a trick.~
 @942  = ~Just stay put.~
 
 // New (v.11)
-@943 = ~To boldly go where others dare not... ‘Tis the adventurer's creed!~
-@944 = ~My ballad of Sir Garrick’s bravery in the final battle will go down in history!~
+@943 = ~To boldly go where others dare not... â€˜Tis the adventurer's creed!~
+@944 = ~My ballad of Sir Garrickâ€™s bravery in the final battle will go down in history!~
 @945 = ~Don't forget to mention the brave little Boo in these stories!~
 @946 = ~Stop talking, you fools!~
 @947 = ~Are you giving up your divine power yourself? What a fool you are!~
@@ -990,7 +990,7 @@ And always ready for a trick.~
 @979 = ~Hide quickly!~
 
 // New (v.11.6)
-@980 = ~I know just what I can say, but I’m too civilized to repeat it in front of others!~
+@980 = ~I know just what I can say, but Iâ€™m too civilized to repeat it in front of others!~
 @981 = ~Oh gods! It's... Garrick himself, a brave and illustrious bard! Are you here with us in Amkethran? I can't believe my eyes! ~
 @982 = ~Will you perform at my tavern tonight? You are welcome to do so! All the women of the city will come to see you with their own eyes and listen to your beautiful voice, and I'll take the entrance fee from everyone!~
 @983 = ~Yes, being as wonderful as me can sometimes be a tremendous burden...~ [garricku]
@@ -1011,7 +1011,7 @@ And always ready for a trick.~
 @994 = ~Actually, yes. It's just, you know...~
 @995 = ~Are you scared? ~
 @996 = ~I can confess to you: Yes, I'm scared.~
-@997 = ~I'm scared too. I also don’t know if we’re doing the right thing by helping <CHARNAME> reclaim the throne for the new god of murder.~
+@997 = ~I'm scared too. I also donâ€™t know if weâ€™re doing the right thing by helping <CHARNAME> reclaim the throne for the new god of murder.~
 @998 = ~So are you sure <CHARNAME>... ~
 @999 = ~No, I'm not sure at all. So far, it looks like <PRO_HESHE> is just protecting his life. But who knows what the ending of this story will be... *Sighs* Anyway, we cannot leave <CHARNAME> now, given that we have already done so much together.~
 @1000 = ~Of course, we need to go all the way. Plus, it's a truly epic, exciting adventure! If I scribe all of these events in my book, it will be an incredible success!~
@@ -1049,7 +1049,7 @@ Theres an end to all Misery.~
 @1020 = ~Yes. In the war that unleashed then, many noble families died, including... *Jaheira pauses for a moment* Although, to be honest, I can not imagine another life in which I am a Tethyrian noblewoman, and not a servant of Sylvanus. Well I suppose everything goes on as usual. The only problem now is that the world is not changing for the better.~
 @1021 = ~Forgive me for prompting you to think so sadly. ~
 @1022 = ~Garrick, they would haunt me without you. But it's easy for me to talk to you. I can even talk to you... about Khalid.~
-@1023 = ~You knew him the way his friends didn’t know him? ~
+@1023 = ~You knew him the way his friends didnâ€™t know him? ~
 @1024 = ~Yes. There was a lot of wisdom in him that no one noticed. He was also kind and open, and in this you are similar to him. But that's enough for today, I dare not go too far into the past.~
 @1025 = ~There are enough worries in the present, right? But we can handle them all. Raise your nose, Lady Jaheira! ~ [GARRICKA]
 @1026 = ~Garrick, you are incorrigible.~
@@ -1118,7 +1118,7 @@ O'ercharged with burden of mine own love's might.~
 @1074 = ~Why do you say it like that?.. Hmm I see... I will keep my distance from you then.~
 
 // Garrick - PC 3
-@1076 = ~“Little Fly, thy summer's play
+@1076 = ~â€œLittle Fly, thy summer's play
 My thoughtless hand has brush'd away.
 Am not I a fly like thee?
 Or art not thou a man like me?
@@ -1158,7 +1158,7 @@ If I live or if I die."~
 @1099 = ~Garrick, I'm returning the book you gave me to read, with gratitude!~
 @1100 = ~I can see from your wonderful smile that you liked it.~ [GARRICKG]
 @1101 = ~Oh yes. How wise and beautiful it is...~
-@1102 = ~“O how much more doth beauty beauteous seem
+@1102 = ~â€œO how much more doth beauty beauteous seem
 By that sweet ornament which truth doth give!
 The rose looks fair, but fairer we it deem
 For that sweet odour which doth in it live..."~

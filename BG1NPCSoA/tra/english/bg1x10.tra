@@ -301,7 +301,7 @@
 @300  = ~The Guards District is where all the city guards live. Understandably, it is one of the safest districts to live in.~
 @301  = ~The Scepter District, is currently the most popular place for nobles to buy their mansions because of the proximity to the Water Gardens. Several prominent Cowled Wizards also live there, including Lucious.~
 @302  = ~The Gem District is the wealthiest place in the city. The only downfall of living there is that you are across the river and therefore, far away from the Water Gardens, but the splendid fountains and marble statues more than make up for that.~
-@303  = ~The Wave District, is where the rich go to enjoy the boardwalk. There you will find the Golden Dragonne Theatre and Moonhall ,a seven-sided conical temple to Selûne. High Priestess and Lunar Aryn Gallowglass, an aged half-sister of the tyrant Ernest Gallowglass of Tethyr, is a shrewd business woman with three trade ships to her name.~
+@303  = ~The Wave District, is where the rich go to enjoy the boardwalk. There you will find the Golden Dragonne Theatre and Moonhall ,a seven-sided conical temple to SelÑ‹ne. High Priestess and Lunar Aryn Gallowglass, an aged half-sister of the tyrant Ernest Gallowglass of Tethyr, is a shrewd business woman with three trade ships to her name.~
 @304  = ~The Quill District is a good for adventurers to go to get their stories chronicled. If you are lucky, you can have Volo, himself, write down your tales of wonder into a complete compilation to sell as a book.~
 @305  = ~The Trades District is where locals go to get their essential goods. Many merchants still use the barter system there.~
 @306  = ~I'm so sad that services were cancelled this morning at the Lathander church.  It seems that one of their acolytes has disappeared.  How dreadful!~
@@ -339,7 +339,7 @@
 @338  = ~The nerve of some people I tell you!~
 @339  = ~Just because you are the famous adventurer that defeated Sarevok and saved the Sword Coast, it does not give you the right to interfere in the family business of others!~
 @340  = ~Were it not for your high standing within the community I would have you arrested for bothering me. Regardless, I forbid you to ever speak with me on the subject again. Is that understood?~
-@341  = ~I am a canon of the seven-sided Moonhall of Selûne. Since you come from a peasant background, allow me to explain what that means.~
+@341  = ~I am a canon of the seven-sided Moonhall of SelÑ‹ne. Since you come from a peasant background, allow me to explain what that means.~
 @342  = ~A canon is an ecclesiastical position but also an administrative and executive one as well. Canons are men of influence and power in their parish neighborhood.~
 @343  = ~That is how I was able to secure a place for my niece at the university. Usually the waiting list takes years, but with my connections in the city, I was able to speed up to process.~
 @344  = ~I must say that I disagree with the way that the council is dividing up the taxes.~
@@ -381,7 +381,7 @@
 @380  = ~Somehow I knew that our pearl would capture your imagination. Although, who is not taken back when they first see the Promenade in the City of Coin?~
 @381  = ~It is unfortunate that you are a warrior and therefore are not free to do what you with your time for there is much of the city that you will probably miss.~
 @382  = ~The Dome of the Rose, is a monastery and temple to Lathander. It is a significant religious structure located in the city's Gem District. Mornmaster Thaddin Dawnhunter, a quiet priest with little inclination to mercantilism, oversees the other priests, monks, and followers. The three-story temple hall is capped with a dome of rose tinted glass that glows at dawn during morning song and prayer services.~
-@383  = ~Moonhall is a seven-sided conical temple to Selûne in the Wave District located near the waterfront. High Priestess and Lunar Aryn Gallowglass, an aged half-sister of the tyrant Ernest Gallowglass of Tethyr, is a shrewd business woman with three trade ships to her name. She plows back most of her profits into the temple fund.~
+@383  = ~Moonhall is a seven-sided conical temple to SelÑ‹ne in the Wave District located near the waterfront. High Priestess and Lunar Aryn Gallowglass, an aged half-sister of the tyrant Ernest Gallowglass of Tethyr, is a shrewd business woman with three trade ships to her name. She plows back most of her profits into the temple fund.~
 @384  = ~Ahh.. and let us not forget the university here in Athkatla. A beacon of knowledge for the entire city. Yes, it is good to live the life of a noble and have the freedom to go where one pleases. Not be be one some god-forsaken quest every moment of the day..~
 @385  = ~At least make sure you try the wine at the Blue Unicorn before heading back into the Slums. They have any excellent selection there.~
 @386  = ~Or try the new place, the Red Lion. I like what they did with that spot there. The old store they had there looked more like some run down shack you would find in a village up North that what you would expect here in the Water Gardens.~
@@ -809,7 +809,7 @@
 @808  = ~Brave Sir Garrick has chosen to flee this battle!~
 @809  = ~I've had better times drownin' face-first in gutter-water, bleedin' from every orifice...~ [KORGAN04]
 @810  = ~There be time fer this battle another day!~ [KORGAN02]
-@811  = ~Well met stranger, I am Baldrek Goblinslayer from Sildëyuir in the Feywild.~
+@811  = ~Well met stranger, I am Baldrek Goblinslayer from SildÐ»yuir in the Feywild.~
 @812  = ~I have come to the Water Gardens because I have some of the most powerful magical items in Feywild for sale and I need to meet someone with enough platinum to buy them.~
 @813  = ~I have a Rousing Hammer for 25,250 platinum coins, that will instill vigor in your allies.~
 @814  = ~I have a Rhythm Blade for 21,250 platinum coins,that not only deals damage, it will protect you and improve your reflexes.~
