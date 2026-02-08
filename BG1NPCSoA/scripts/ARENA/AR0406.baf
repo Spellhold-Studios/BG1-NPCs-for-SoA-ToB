@@ -1,11 +1,13 @@
 IF 
 Global("SHARTexists","AR0406",0)
+Global("7xSharTeelLeave","GLOBAL",0)
+Global("7xSharTeelLeaveSea","GLOBAL",0)
 
 THEN
   RESPONSE #100
+SetGlobal("SHARTexists","AR0406",1) 
 CreateCreature("7XCRE1",[1567.1505],6)
 CreateCreature("7XCRE20",[2148.1481],10)
-SetGlobal("SHARTexists","AR0406",1)
 Continue()
 END
 
