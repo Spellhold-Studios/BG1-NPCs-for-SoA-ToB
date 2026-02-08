@@ -1,7 +1,7 @@
 BACKUP ~BG1NPCSoA/backup~
 SUPPORT ~http://www.shsforums.net/forum/686-bg1-npcs-for-soa-~
 
-VERSION ~15.4.3~
+VERSION ~15.4.4~
 
 AUTO_TRA ~BG1NPCSoA/tra/%s~
 
@@ -31,18 +31,26 @@ END
 
      // convert strings to UTF-8 for BGEE/BG2EE
 	
-ACTION_DEFINE_ARRAY 9xnoconvert BEGIN install END
-ACTION_DEFINE_ARRAY 9xreload BEGIN setup END
-
-  LAF HANDLE_CHARSETS
-    INT_VAR
-      infer_charsets = 1
-    STR_VAR
-      tra_path = EVAL ~%MOD_FOLDER%/tra~
-      noconvert_array = 9xnoconvert
-      reload_array = 9xreload
-END 
-
+	
+    ACTION_IF NOT GAME_IS ~bg2ee eet~ BEGIN
+        ACTION_DEFINE_ARRAY 7xnoconvert BEGIN END
+        ACTION_DEFINE_ARRAY 7xreload BEGIN setup END
+		ACTION_DEFINE_ASSOCIATIVE_ARRAY charset_table BEGIN
+   ~english~     => ~CP1252~
+   ~russian~     => ~CP1251~
+   ~schinese~    => ~CP936~
+	END
+        LAF HANDLE_CHARSETS
+            INT_VAR
+                from_utf8 = 1
+            STR_VAR
+                tra_path = EVAL ~%MOD_FOLDER%/tra~
+				charset_table
+                noconvert_array = 7xnoconvert
+                reload_array = 7xreload
+        END
+    END	
+	
 
 ACTION_IF (GAME_IS ~eet~) BEGIN // Check for EET and and fix NPC ToB-scripts so that there are no errors after a call through the Fate Spirit 
 <<<<<<<< fix_tob_script.baf
@@ -67,9 +75,9 @@ LANGUAGE ~English~
 LANGUAGE ~Russian, by Arcanecoast Team (Austin, yota13 & MacksimSl)~
          ~Russian~
          ~BG1NPCSoA/tra/Russian/Setup.TRA~
-LANGUAGE ~Simplified Chinese~
-         ~Chinese~
-         ~BG1NPCSoA/tra/Chinese/install.TRA~
+LANGUAGE ~Simplified Chinese (by MephistoSatanDevil)~
+         ~Schinese~
+         ~BG1NPCSoA/tra/schinese/Setup.TRA~
 		 
 BEGIN @0 DESIGNATED 0
 GROUP ~Main Mod~
@@ -3046,6 +3054,7 @@ UNLESS ~CD_STATE_NOTVALID~
 APPEND ~gtimes.ids~ ~7200 ONE_DAY~ UNLESS ~ONE_DAY~
 APPEND ~gtimes.ids~ ~14400 TWO_DAYS~ UNLESS ~TWO_DAYS~
 APPEND ~gtimes.ids~ ~21600 THREE_DAYS~ UNLESS ~THREE_DAYS~
+APPEND ~gtimes.ids~ ~50400 SEVEN_DAYS~ UNLESS ~SEVEN_DAYS~
 APPEND ~gtimes.ids~ ~100800 FOURTEEN_DAYS~ UNLESS ~FOURTEEN_DAYS~
 
 COPY ~BG1NPCSoA/Cre/7xcre1.cre~ ~override/7xcre1.cre~ 
