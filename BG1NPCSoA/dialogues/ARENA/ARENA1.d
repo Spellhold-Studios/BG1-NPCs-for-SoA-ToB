@@ -186,7 +186,7 @@ THEN BEGIN FIGHTDONE2
 SAY @55
 =
 @56
-IF ~~ THEN DO ~AddexperienceParty(27000)EscapeArea()AddJournalEntry(@1773,QUEST_DONE)~ EXIT
+IF ~~ THEN DO ~GiveGoldForce(2000) AddexperienceParty(27000)EscapeArea()AddJournalEntry(@1773,QUEST_DONE)~ EXIT
 END
 
 
