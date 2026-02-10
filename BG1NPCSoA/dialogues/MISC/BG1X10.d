@@ -1985,7 +1985,7 @@ END
 
 IF ~~ THEN BEGIN QUESTFINISH2
 SAY @629
-IF ~~ THEN DO ~SetGlobal("BG1X16","GLOBAL",1)AddJournalEntry(@1788,QUEST_DONE)~
+IF ~~ THEN DO ~SetGlobal("BG1X16","GLOBAL",1)AddexperienceParty(2000) AddJournalEntry(@1788,QUEST_DONE)~
 EXIT
 END
 
