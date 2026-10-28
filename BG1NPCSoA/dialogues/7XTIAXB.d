@@ -709,7 +709,7 @@ InParty("7XTIAX")!StateCheck("7XTIAX",CD_STATE_NOTVALID)
 Global("TiaxYoshimo","GLOBAL",1)~ THEN 7XTIAXB YoshimoTiaxBanter2
 @290 DO ~SetGlobal("TiaxYoshimo","GLOBAL",2)~
 == BYOSHIM @291
-== 7XTIAXB ~Bah! Tiax the Revenger is able to summon undead warriors to do his dirty work for him. I moments you would be swarmed by fleash eating ghasts! Watching them kill you would bring Tiax much pleasure!~[tiax3]
+== 7XTIAXB @292 /*~Bah! Tiax the Revenger is able to summon undead warriors to do his dirty work for him. I moments you would be swarmed by fleash eating ghasts! Watching them kill you would bring Tiax much pleasure!~[tiax3]*/
 == BYOSHIM @293
 == 7XTIAXB @294
 == BYOSHIM @295
